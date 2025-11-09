@@ -5,6 +5,8 @@ It allows users to **create and delete notes**, with data stored locally using *
 
 ⚠️ **Note:** If the counter app opens first, just perform a **Hot Restart** to launch the Notes App properly.
 
+---
+
 ## 🚀 Features
 
 - ✍️ Add and delete notes
@@ -33,6 +35,8 @@ It allows users to **create and delete notes**, with data stored locally using *
 3. flutter pub get
 4. flutter run
 
+---
+
 👨‍💻 Developer: Ahmed Hussain
-🎓 B.Tech CSE | 💻 Flutter Developer
+||🎓 B.Tech CSE | 💻 Flutter Developer||
 📧 [ahmedhns654@gmail.com]
