@@ -16,16 +16,19 @@ It allows users to **create and delete notes**, with data stored locally using *
 
 ## 🛠️ Tech Stack
 
-Flutter · Dart · Shared Preferences · Material Design
+> Flutter
+> Dart
+> Shared Preferences
+> Material Design
 
 ---
 
 ## ⚙️ How to Run
 
-git clone https://github.com/AhmedHussain-56/flutter_notes_app.git
-cd flutter_notes_app
-flutter pub get
-flutter run
+1. git clone https://github.com/AhmedHussain-56/flutter_notes_app.git
+2. cd flutter_notes_app
+3. flutter pub get
+4. flutter run
 
 👨‍💻 Developer: Ahmed Hussain
 🎓 B.Tech CSE | 💻 Flutter Developer
