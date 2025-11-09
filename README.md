@@ -1,16 +1,32 @@
-# notes_app
+# 📝 Flutter Notes App
 
-A new Flutter project.
+A simple and elegant **note-taking app** built with **Flutter** and **Dart**.  
+It allows users to **create and delete notes**, with data stored locally using **Shared Preferences**.
 
-## Getting Started
+⚠️ **Note:** If the counter app opens first, just perform a **Hot Restart** to launch the Notes App properly.
 
-This project is a starting point for a Flutter application.
+## 🚀 Features
 
-A few resources to get you started if this is your first Flutter project:
+- ✍️ Add and delete notes
+- 💾 Local storage (Shared Preferences)
+- 🎨 Clean Material Design UI
+- ⚡ Lightweight and fast
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+---
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## 🛠️ Tech Stack
+
+Flutter · Dart · Shared Preferences · Material Design
+
+---
+
+## ⚙️ How to Run
+
+git clone https://github.com/AhmedHussain-56/flutter_notes_app.git
+cd flutter_notes_app
+flutter pub get
+flutter run
+
+👨‍💻 Developer: Ahmed Hussain
+🎓 B.Tech CSE | 💻 Flutter Developer
+📧 [ahmedhns654@gmail.com]
