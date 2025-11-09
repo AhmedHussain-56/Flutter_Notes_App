@@ -14,12 +14,15 @@ It allows users to **create and delete notes**, with data stored locally using *
 
 ---
 
-## 🛠️ Tech Stack
+### 🛠️ Tech Stack
 
-> Flutter
-> Dart
-> Shared Preferences
-> Material Design
+| Component     | Description              |
+| ------------- | ------------------------ |
+| **Framework** | Flutter                  |
+| **Language**  | Dart                     |
+| **Storage**   | Shared Preferences       |
+| **UI Design** | Material Design          |
+| **IDE Used**  | Android Studio / VS Code |
 
 ---
 
