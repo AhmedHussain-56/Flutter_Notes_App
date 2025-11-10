@@ -14,9 +14,10 @@ class MyApp extends StatelessWidget {
       title: 'Flutter Notes App',
       debugShowCheckedModeBanner: false,
       theme: ThemeData(
+        useMaterial3: true,
+        colorSchemeSeed: const Color(0xFF1976D2),
         fontFamily: 'Poppins',
         brightness: Brightness.light,
-        primaryColor: const Color(0xFF1976D2),
         scaffoldBackgroundColor: const Color(0xFFE3F2FD),
         appBarTheme: const AppBarTheme(
           backgroundColor: Colors.transparent,
